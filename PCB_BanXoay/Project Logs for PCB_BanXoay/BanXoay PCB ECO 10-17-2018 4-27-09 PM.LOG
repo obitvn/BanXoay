@@ -1,0 +1,67 @@
+Added Component: Designator=A1(Arduino Nano)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "1000uF/6,3V - 470uF/16V - 330uF - 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "220uF/35V - 100uF/50V - 63V - 4,7uF/200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "22uF => 33uF100V - 3,3uF => 4,7uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "2,2uF =>3,3uF/350 - 2,2uF/400V - 1uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF/35V/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C3(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=JDC1(DC5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(CON 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(CON 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(TO252-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VR1(VR-S1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=A1-3
+Added Pin To Net: NetName=GND Pin=A1-28
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=JDC1-3
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=MOTOR Pin=A1-25
+Added Pin To Net: NetName=MOTOR Pin=Q1-1
+Added Pin To Net: NetName=MOTOR Pin=R1-2
+Added Net: Name=MOTOR
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=P2-1
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=Q1-2
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=SPEED Pin=A1-22
+Added Pin To Net: NetName=SPEED Pin=C3-2
+Added Pin To Net: NetName=SPEED Pin=VR1-2
+Added Net: Name=SPEED
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=VR1-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=A1-29
+Added Pin To Net: NetName=VIN Pin=C1-1
+Added Pin To Net: NetName=VIN Pin=JDC1-1
+Added Pin To Net: NetName=VIN Pin=P1-1
+Added Net: Name=VIN
+Added Class: Name=BanXoay
+Added Room: Name=BanXoay

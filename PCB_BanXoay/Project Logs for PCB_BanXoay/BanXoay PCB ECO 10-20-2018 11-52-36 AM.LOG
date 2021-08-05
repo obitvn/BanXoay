@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=A1-3
+Removed Pin From Net: NetName=MOTOR Pin=A1-9
+Removed Pin From Net: NetName=SPEED Pin=A1-22
+Removed Pin From Net: NetName=GND Pin=A1-28
+Removed Pin From Net: NetName=VIN Pin=A1-29
+Removed Member From Class: ClassName=BanXoay Member=A1
+Added Component: Designator=A?(Arduino Nano)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=A?-3
+Added Pin To Net: NetName=MOTOR Pin=A?-7
+Added Pin To Net: NetName=NetC2_2 Pin=A?-18
+Added Pin To Net: NetName=SPEED Pin=A?-22
+Added Pin To Net: NetName=VIN Pin=A?-26
+Added Pin To Net: NetName=GND Pin=A?-28
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetA?_18
+Added Member To Class: ClassName=BanXoay Member=Component A? Arduino Nano
+Added Room: Name=BanXoay

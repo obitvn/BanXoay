@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MOTOR Pin=A1-25
+Added Pin To Net: NetName=MOTOR Pin=A1-9
+Added Room: Name=BanXoay
